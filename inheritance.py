@@ -19,5 +19,9 @@ class Student(Department):
 obj = Student()
 obj.set_data("MIT ADT University","0012")
 obj.get_data("Bioengineering","12")
+<<<<<<< HEAD
 obj.set_name("Asmita Ramesh Jagadale", "System Biology")
+=======
+obj.set_name("Asmita Jagadale", "System Biology")
+>>>>>>> dev
 obj.display()
